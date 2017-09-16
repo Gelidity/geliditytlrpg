@@ -1,0 +1,17 @@
+Wooden Shield~woodenshield~1
+0~2~0~0~0
+
+Field Reference~fieldreference~1
+0~0~0~1~1
+
+Pocket Knife~pocketknife~1
+1~0~1~0~0
+
+Shiny Rock~shinyrock~1
+0~0~0~2~0
+
+Rubber Chicken~rubberchicken~5
+1~1~1~1~1
+
+Water Bottle~waterbottle~1
+0~10~0~99~99

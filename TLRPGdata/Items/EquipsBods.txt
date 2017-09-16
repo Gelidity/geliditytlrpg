@@ -1,0 +1,14 @@
+Kappa Jersey~kappajersey~1
+0~0~0~0~0
+
+Vohiyo Robe~vohiyorobe~1
+0~0~0~0~0
+
+Swiftrage Sarong~swiftragesarong~1
+0~0~0~0~0
+
+Chicken Armor~chickenarmor~5
+1~1~1~1~1
+
+T-Shirt~tshirt~1
+35~40~22~22~20

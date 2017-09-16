@@ -1,0 +1,17 @@
+Short Sword~shortsword~1
+2~0~0~0~0
+
+Truncheon~truncheon~1
+1~0~1~0~0
+
+Slingshot~slingshot~1
+0~0~2~0~0
+
+Walking Stick~walkingstick~1
+0~0~0~1~1
+
+Chicken Sickle~chickensickle~5
+1~1~1~1~1
+
+Ban-Hammer~banhammer~1
+99~99~99~0~0
